@@ -6,7 +6,7 @@ This project focuses on bird species identification from audio recordings in the
 
 ## Project Structure
 
-- **`birdclef_audioproject.ipynb`**: The Jupyter notebook containing the entire analysis and modeling process.
+- **`birdclef_audio.ipynb`**: The Jupyter notebook containing the entire analysis and modeling process.
 
 ## Data
 
@@ -37,7 +37,9 @@ As there is no script or `requirements.txt`, the notebook should be run in an en
     Open the `birdclef_audio.ipynb` notebook in Jupyter and run all cells to execute the code and see the results. 
 
 ## Results
-    The notebook trains a model using the `EfficientNetV2` architecture and generates predictions for the test dataset. The predictions are saved in submission.csv.
+
+The notebook trains a model using the `EfficientNetV2` architecture and generates predictions for the test dataset.
+The predictions are saved in submission.csv.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

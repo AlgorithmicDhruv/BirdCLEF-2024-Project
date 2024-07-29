@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 - BirdCLEF 2024 for providing the dataset.
-- TensorFlow and KerasCV for their powerful machine learning libraries.# BirdCLEF-2024-Project
+- TensorFlow and KerasCV for their powerful machine learning libraries.
